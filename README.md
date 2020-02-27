@@ -1,6 +1,5 @@
 [![DDraceNetwork](https://ddnet.tw/ddnet-small.png)](https://ddnet.tw) ![](https://github.com/ddnet/ddnet/workflows/Build/badge.svg)
 
-Saeed mosi
 Our own flavor of DDRace, a Teeworlds mod. See the [website](https://ddnet.tw) for more information.
 
 Development discussions happen on #ddnet on Quakenet ([Webchat](http://webchat.quakenet.org/?channels=ddnet&uio=d4)) or on [Discord in the developer channel](https://discord.gg/xsEd9xu).
